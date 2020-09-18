@@ -1,3 +1,5 @@
+Project from the course TDP005 Innovative Programming taught at Linköping University.
+
 Kompilering:
 
 Följande steg krävs för att kunna kompilera programmet.
