@@ -1,32 +1,29 @@
 Project from the course TDP005 Innovative Programming taught at Linköping University.
 
+![GitHub Logo](/images/tankbattles.png)
+![GitHub Logo](/images/ochdenna.png)
 Kompilering:
+Compilation
+1) Pull down the repo
+2) Enter the folder "cmake-build-debug" and move the folders "fonts", "images" and "arenas" out into the previous folder.
+3) Within the terminal, enter the project folder and write "cmake CMakeLists.txt"
+4) After step 3 write "make" to compile the project.
+5) Write "./sfml" to start the game.
 
-Följande steg krävs för att kunna kompilera programmet.
-1) Gå in i mappen för projektet i förslagsvis en terminal.
-2) I mappen "cmake-build-debug", flytta ut mapperna "fonts",
-"images" och "arenas" till den tidigare mappen.
-3) Skriv in "cmake CMakeLists.txt" i terminalen.
-4) Skriv sedan in "make" för att kompilera.
-5) Till sist, skriv in "./sfml" för att starta spelet.
+Controls:
+Navigation in the menu uses the up and down arrow. Choose an alternative with Enter.
 
+Player 1:
+WASD for movement. R to shoot projectiles.
 
-Kontroller:
+Player 2:
+Piltangenter for movement. numpad 0 to shoot projectiles.
 
-För att navigera i menyn så används uppåt och nedåt piltangent. För att välja
-ett alternativ så används Enter.
+Player 3:
+IJKL for movement. P to shoot projectiles.
 
-Spelare 1:
-WASD för rörelser. R för att skjuta ut projektiler
+Player 4:
+Num(4,5,6,8) for movement. num9 to shoot projectiles.
 
-Spelare 2:
-Piltangenter för rörelser. numpad 0 för att skjuta ut projektiler.
+ESC is used to quit out of a match and return to the main menu.
 
-Spelare 3:
-IJKL för rörelser. P för att skjuta ut projektiler.
-
-Spelare 4:
-Num(4,5,6,8) för rörelser. num9 för att skjuta ut projektiler.
-
-Til sist så används ESC för att avsluta en match och gå tillbaka till 
-huvudmenyn.
