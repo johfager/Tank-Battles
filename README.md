@@ -2,7 +2,6 @@ Project from the course TDP005 Innovative Programming taught at Linköping Unive
 
 ![GitHub Logo](/images/tankbattles.png)
 ![GitHub Logo](/images/ochdenna.png)
-Kompilering:
 Compilation
 1) Pull down the repo
 2) Enter the folder "cmake-build-debug" and move the folders "fonts", "images" and "arenas" out into the previous folder.
